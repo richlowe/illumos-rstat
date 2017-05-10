@@ -1,0 +1,5 @@
+rpc.rstatd
+rstat_svc.c
+rstat_v2.h
+rstat_v2_svc.c
+rstat_v2_xdr.c

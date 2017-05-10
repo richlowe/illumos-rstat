@@ -1,0 +1,5 @@
+/proto/
+.make.state
+*.o
+
+
